@@ -4,9 +4,13 @@
 环境：
   jdk1.8
   Interiij idea2020
-  数据库:oracle
+  数据库:oracle 10g
+  PL/SQL developer
+  
   
 描述：
+
+  使用了adminLTE框架搭建web前端
   在VMware虚拟机中运行windows server 2003系统，并安装了oracle 10g，将网卡等配置完毕。即可运行项目
 
 
