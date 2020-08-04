@@ -1,6 +1,7 @@
 # ssm
 ## 利用ssm框架完成的一个后台管理系统<br>
-### 在学校期间自学Spring+SpringMVC+MyBatis框架<br>
+
+### 在校期间学习的一个项目整合Spring+SpringMVC+MyBatis框架<br>
 ## 环境：<br>
 ####  jdk1.8<br>
 ####  Interiij idea2020<br>
