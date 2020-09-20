@@ -17,6 +17,11 @@
   
   
 ### 后台登录页面
+![iamge](https://github.com/Xw3C/ssm/blob/master/login.PNG)
 
+### 主页面
+![iamge](https://github.com/Xw3C/ssm/blob/master/main.PNG)
 
+### 数据库表单
+![iamge](https://github.com/Xw3C/ssm/blob/master/datebase.PNG)
 
